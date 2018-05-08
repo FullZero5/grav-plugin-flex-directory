@@ -1,10 +1,10 @@
-name: Flex-Directory
+name: Price
 version: 2.0.1
-description: Simple Flexible Directory Plugin
+description: Price json Plugin
 icon: list
 author:
-  name: Trilby Media
-  email: hello@trilby.media
+  name: fullzero
+  email: fullzero5@gmail.com
 homepage: https://github.com/trilbymedia/grav-plugin-flex-directory
 keywords: grav, plugin, crud, directory
 bugs: https://github.com/trilbymedia/grav-plugin-flex-directory/issues

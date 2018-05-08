@@ -5,3 +5,10 @@ en:
     CREATE_NEW: Create New Item
     EDIT: Edit Item
     LIST: List Items
+ru:
+  PLUGIN_FLEX_DIRECTORY:
+    TITLE: Прайс
+    AFTER_SAVE: Сохранить
+    CREATE_NEW: Добавить
+    EDIT: Редактировать
+    LIST: Список
